@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+<<<<<<< HEAD
 *.py[codz]
 *$py.class
 
@@ -205,3 +206,29 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+>>>>>>> 586b032 (first commit)
